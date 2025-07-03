@@ -39,6 +39,30 @@ My interests lie in **Machine Learning**, **Web Development**, and **Blockchain*
 
 
 ---
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anish41338&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anish41338&show_icons=true&theme=radical&rank_icon=github&hide_title=true" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🛡️ Earned Badges
+
+![Code Streak](https://img.shields.io/badge/Code%20Streak-30%2B%20days-success?style=for-the-badge&logo=github)
+![Hackathon Warrior](https://img.shields.io/badge/Hackathon-Warrior-blueviolet?style=for-the-badge)
+![Flutter Dev](https://img.shields.io/badge/Flutter-Dev-blue?style=for-the-badge&logo=flutter)
+![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-yellowgreen?style=for-the-badge&logo=tensorflow)
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)
+
+
+
 
 ### 📌 Projects
 - 🚨 **Women Safety App** – Flutter + Firebase-based app for location sharing and alerts
