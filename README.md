@@ -1,83 +1,68 @@
-### Hi there, I'm Anish! 👋
-
-I'm a 3rd-year Computer Science undergrad at RV College of Engineering, passionate about building impactful solutions using code. I love exploring new technologies, solving real-world problems, and sharpening my software development and design skills through hands-on projects.
-
-My interests lie in **Machine Learning**, **Web Development**, and **Blockchain**, with occasional dips into **Android and UI/UX design**. Whether it's deploying dashboards, automating tasks, or matching DNA sequences — I'm always up for a challenge.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+I'm+Anish!+👋;Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🙋‍♂️ About Me
 
+🎓 I am a student focused on learning **App Development** and **Web Development**, with a dabble in **Machine Learning** :)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white) 
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) 
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) 
-
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) 
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) 
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white) 
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
-
-
+📧 You can reach me at: **anishsihag12@gmail.com**
 
 ---
+
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anish41338&theme=algolia&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anish41338&theme=algolia&margin-w=10&margin-h=10&no-frame=true&row=2&column=4" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anish41338&show_icons=true&theme=radical&rank_icon=github&hide_title=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish41338&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish41338&theme=radical" alt="anish41338" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish41338&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anish41338&show_icons=true&theme=radical&rank_icon=github&hide_title=true" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,html,css,react,nodejs,express,flutter,dart,firebase,supabase,mongodb,mysql,git,github,vercel,vscode,docker" />
 </p>
 
 ---
+## 🌐 Connect with Me
 
-## 🛡️ Earned Badges
-
-![Code Streak](https://img.shields.io/badge/Code%20Streak-30%2B%20days-success?style=for-the-badge&logo=github)
-![Hackathon Warrior](https://img.shields.io/badge/Hackathon-Warrior-blueviolet?style=for-the-badge)
-![Flutter Dev](https://img.shields.io/badge/Flutter-Dev-blue?style=for-the-badge&logo=flutter)
-![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-yellowgreen?style=for-the-badge&logo=tensorflow)
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)
-
-
-
-
-### 📌 Projects
-- 🚨 **Women Safety App** – Flutter + Firebase-based app for location sharing and alerts
-- 🧬 **DNA Sequence Analyzer** – React + TypeScript app with regex + alignment algo
-- 🤖 **YOLO Navigation** – Real-time object detection + voice navigation system
-- 📦 **PTS Dispatch System** – Flask + MQTT app for multi-station dispatch tracking
-- 🗺️ **Tech Analytics UI** – Vite + Tailwind dashboard to sharpen UI/UX skills
-
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-s-46399133a)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anish41338)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishsihag12@gmail.com)
+  
+</div>
 
 ---
 
-### 📫 Connect with Me
-- 📧 anishsihag12@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/anish-s-46399133a)
-- 💻 [GitHub](https://github.com/anish41338)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</div>
 
-
-Let's connect and build something awesome together! 💻🚀
+<div align="center">
+  
+  **Let's connect and build something awesome together!** 💻🚀
+  
+</div>
