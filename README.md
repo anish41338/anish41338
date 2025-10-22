@@ -24,10 +24,8 @@
 ## 🪪 Holopin Badges
 
 <p align="center">
-  <a href="https://holopin.io/@anish41338">
-    <img src="https://holopin.me/anish41338?badge=early-bird" width="150" />
-    <img src="https://holopin.me/anish41338?badge=contributor" width="150" />
-    <img src="https://holopin.me/anish41338?badge=hacktoberfest-1" width="150" />
+  <a href="https://holopin.io/@anish41338" target="_blank">
+    <img src="https://holopin.me/anish41338" alt="@anish41338's Holopin badges" width="400"/>
   </a>
 </p>
 
