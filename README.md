@@ -16,6 +16,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anish41338&theme=algolia&margin-w=10&margin-h=10&no-frame=true&row=2&column=4" />
 </p>
+[![An image of @anish41338's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anish41338)](https://holopin.io/@anish41338)
+
 
 ---
 
