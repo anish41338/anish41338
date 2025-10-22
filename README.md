@@ -31,13 +31,6 @@
 
 ---
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anish41338&bg_color=0d1117&color=f85d7f&line=f85d7f&point=f85d7f&area=true&hide_border=true" />
-</div>
-
----
-
 ## 🛠️ Languages and Tools
 
 <p align="center">
